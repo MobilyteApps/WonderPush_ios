@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-WonderPushTest/Pods-WonderPushTest-frameworks.sh
+${BUILT_PRODUCTS_DIR}/WonderPush/WonderPush.framework
+${BUILT_PRODUCTS_DIR}/WonderPushExtension/WonderPushExtension.framework
